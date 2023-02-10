@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contextApi-reactRouter-firebase-practice/static/css/main.e6c13ad2.css",
+    "main.js": "/contextApi-reactRouter-firebase-practice/static/js/main.c0b8448b.js",
+    "static/js/787.635aedaa.chunk.js": "/contextApi-reactRouter-firebase-practice/static/js/787.635aedaa.chunk.js",
+    "index.html": "/contextApi-reactRouter-firebase-practice/index.html",
+    "main.e6c13ad2.css.map": "/contextApi-reactRouter-firebase-practice/static/css/main.e6c13ad2.css.map",
+    "main.c0b8448b.js.map": "/contextApi-reactRouter-firebase-practice/static/js/main.c0b8448b.js.map",
+    "787.635aedaa.chunk.js.map": "/contextApi-reactRouter-firebase-practice/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c0b8448b.js"
+  ]
+}
