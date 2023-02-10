@@ -2,7 +2,7 @@
   "name": "practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{uday-hasan}.github.io/{contextApi-reactRouter-firebase-practice}",
+  "homepage": "http://uday-hasan.github.io/contextApi-reactRouter-firebase-practice",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
