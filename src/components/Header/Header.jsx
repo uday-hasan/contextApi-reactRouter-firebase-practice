@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Header = () => {
-    const user = true;
+    const user = false;
     return (
         <div>
             <Link to='/'>Home</Link>
