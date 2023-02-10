@@ -4,6 +4,7 @@ import Home from "./components/Home/Home";
 import Login from "./components/Login/Login";
 import Products from "./components/Products/Products";
 import Register from "./components/Register/Register";
+import PrivateRoute from "./Route/PrivateRoute";
 import MainLayout from "./Tempelate/MainLayout";
 
 function App() {
@@ -20,10 +21,10 @@ function App() {
           path: '/register', element: <Register />
         },
         {
-          path: '/dashboard', element: <DashBoard />
+          path: '/dashboard', element: <PrivateRoute><DashBoard /></PrivateRoute>
         },
         {
-          path: '/products', element: <Products />
+          path: '/products', element: <PrivateRoute><Products /></PrivateRoute>
         },
       ]
     }
